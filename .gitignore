@@ -1,19 +1,8 @@
-# Ignorar variables de entorno
-.env
-
-# Ignorar carpetas de Python
+venv/
 __pycache__/
+.env
 *.pyc
 *.pyo
-
-# Ignorar entornos virtuales
-venv/
-.venv/
-
-# Ignorar configuración de IDE
-.vscode/
-.idea/
-
-# Archivos de sistema
-.DS_Store
-Thumbs.db
+*.pyd
+.Python
+.envrc

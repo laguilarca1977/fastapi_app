@@ -1,6 +1,6 @@
-fastapi
-uvicorn
-bcrypt
-requests
-python-dotenv
-email-validator
+fastapi==0.111.1
+uvicorn[standard]==0.23.2
+bcrypt==4.1.2
+requests==2.31.0
+python-dotenv==1.0.0
+email-validator==2.5.1

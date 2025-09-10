@@ -1,0 +1,19 @@
+# Ignorar variables de entorno
+.env
+
+# Ignorar carpetas de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignorar entornos virtuales
+venv/
+.venv/
+
+# Ignorar configuración de IDE
+.vscode/
+.idea/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
